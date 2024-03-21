@@ -1,3 +1,4 @@
+```
 Let: Ground Coffee
      Coffee Filter
      Water
@@ -21,7 +22,8 @@ Functions: Prepare() {
            Fill2()  = Fill Mug with Coffee, Cream, Sweetener
            Stir()   = Stir contents of mug with spoon 
            Drink()  = sip from mug
-           
+ ```
+
 STEPS:
 
 1. Check to see if coffee maker is empty && clean.
@@ -35,4 +37,3 @@ STEPS:
 5. Fill2().eventListener(gurgle, steam hiss).
 6. RUN Stir().
 7. RUN Drink().
-
